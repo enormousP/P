@@ -31,7 +31,7 @@ const Home = () => (
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
         css={{ backdropFilter: 'blur(10px)' }}
       >
-        Hello, I&apos;m currently looking for work
+        Hello, I&apos;m currently looking for job
       </Box>
 
       <Box display={{ md: 'flex' }}>
@@ -111,10 +111,11 @@ const Home = () => (
         <Heading as="h3" variant="section-title">
           I ♥
         </Heading>
-        <Paragraph>
+        <p>
           <text style={{ color: 'pink' }}>Coding</text>, Athletics, System
           Administration, <text style={{ color: 'pink' }}>AI</text>, Technology
-        </Paragraph>
+          and Reading
+        </p>
       </Section>
 
       <Section delay={0.3}>
