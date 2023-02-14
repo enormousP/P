@@ -23,7 +23,7 @@ const Logo = () => {
             fontWeight="bold"
             ml={3}
           >
-            Ariev Timur
+            Makarov Timur
           </Text>
         </LogoBox>
       </a>

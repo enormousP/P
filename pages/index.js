@@ -37,7 +37,7 @@ const Home = () => (
       <Box display={{ md: 'flex' }}>
         <Box flexGrow={1}>
           <Heading as="h2" variant="page-title">
-            Ariev Timur
+            Makarov Timur
           </Heading>
           <p>Web Developer</p>
         </Box>
@@ -73,8 +73,8 @@ const Home = () => (
           About
         </Heading>
         <Paragraph>
-          Hello! 👋 I am Ariev Timur. Web Developer and technology enthusiast. I
-          enjoy taking complex and practical problems and turning them into
+          Hello! 👋 I am Makarov Timur. Web Developer and technology enthusiast.
+          I enjoy taking complex and practical problems and turning them into
           beautiful webpages. I am able to work well both in a team environment
           as well as using own initiative. Always strive to write elegant and
           efficient code whether it be React, Vue, NodeJs, or Python.
@@ -99,7 +99,7 @@ const Home = () => (
         </BioSection>
         <BioSection>
           <BioYear>2021</BioYear>
-          Freelance Frontend developer at Takeoff-Staff
+          Freelance Frontend developer at Madely
         </BioSection>
         <BioSection>
           <BioYear>2022</BioYear>
@@ -159,11 +159,11 @@ const Home = () => (
 
         <Box align="center" my={4}>
           <NextLink
-            href="https://disk.yandex.com/i/R6YIOWUQbmUUJA"
+            href="https://disk.yandex.com/i/fyADPImC8Juq9Q"
             scroll={false}
           >
             <Button colorScheme="teal">
-              <a href="https://disk.yandex.com/i/R6YIOWUQbmUUJA">
+              <a href="https://disk.yandex.com/i/fyADPImC8Juq9Q">
                 Download Resume
               </a>
             </Button>
