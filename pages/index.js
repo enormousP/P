@@ -159,11 +159,11 @@ const Home = () => (
 
         <Box align="center" my={4}>
           <NextLink
-            href="https://disk.yandex.com/i/QoXg0hPpWg51kg"
+            href="https://disk.yandex.com/i/-53p_Eosxe8Bnw"
             scroll={false}
           >
             <Button colorScheme="teal">
-              <a href="https://disk.yandex.com/i/QoXg0hPpWg51kg">
+              <a href="https://disk.yandex.com/i/-53p_Eosxe8Bnw">
                 Download Resume
               </a>
             </Button>
