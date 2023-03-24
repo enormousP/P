@@ -31,7 +31,7 @@ const Home = () => (
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
         css={{ backdropFilter: 'blur(10px)' }}
       >
-        Hello, I&apos;m currently looking for job
+        Hello, I&apos;m currently looking for a job
       </Box>
 
       <Box display={{ md: 'flex' }}>
@@ -158,16 +158,11 @@ const Home = () => (
         </Flex>
 
         <Box align="center" my={4}>
-          <NextLink
-            href="https://disk.yandex.com/i/-53p_Eosxe8Bnw"
-            scroll={false}
-          >
-            <Button colorScheme="teal">
-              <a href="https://disk.yandex.com/i/-53p_Eosxe8Bnw">
-                Download Resume
-              </a>
-            </Button>
-          </NextLink>
+          <Button colorScheme="teal">
+            <a href="https://disk.yandex.com/i/kEPC8ZoAS_6O8Q">
+              Download Resume
+            </a>
+          </Button>
         </Box>
       </Section>
     </Container>
