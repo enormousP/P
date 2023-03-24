@@ -145,13 +145,13 @@ const Home = () => (
               </Button>
             </Link>
           </Box>
-          <Box>
+          {/* <Box>
             <Link href="mailto:makarov-timyr@ya.ru" target="_blank">
               <Button variant="ghost" colorScheme="teal" leftIcon={<IoMail />}>
                 makarov-timyr@ya.ru
               </Button>
             </Link>
-          </Box>
+          </Box> */}
 
           {/* <Box>
             <Link
