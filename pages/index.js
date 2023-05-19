@@ -39,7 +39,7 @@ const Home = () => (
           <Heading as="h2" variant="page-title">
             Makarov Timur
           </Heading>
-          <p>Web Developer</p>
+          <p>Fullstack Web Developer</p>
         </Box>
         <Box
           flexShrink={0}
@@ -73,37 +73,55 @@ const Home = () => (
           About
         </Heading>
         <Paragraph>
-          Hello! 👋 I am Makarov Timur. Web Developer and technology enthusiast.
-          I enjoy taking complex and practical problems and turning them into
-          beautiful webpages. I am able to work well both in a team environment
-          as well as using own initiative. Always strive to write elegant and
-          efficient code whether it be React, Vue, NodeJs, or Python.
+          Hello! 👋 I am Makarov Timur. Fullstack Web Developer. I enjoy taking
+          problems and turning them into beautifully tied elegant backend
+          structures with modern user interfaces. I am able to work well both in
+          a team environment as well as using own initiative. Always strive to
+          write elegant and efficient code whether it be React, Vue, Svelte,
+          NodeJs, Go or Python.
           <br></br>
-          When I'm not coding, you'll find me playing around with new
-          technologies, hanging out with my friends and exploring the beauty of
-          🏞 the nature.
+          I'm a highly motivated to learn more and more. So, when I'm not
+          working, you'll find me playing around with new technologies.
         </Paragraph>
       </Section>
 
       <Section delay={0.2}>
         <Heading as="h3" variant="section-title">
-          Bio
+          Experience
         </Heading>
         <BioSection>
-          <BioYear>1999</BioYear>
-          Born in Kazan, Russia.
+          <BioYear>Madely</BioYear>
+          <p style={{ textIndent: 0 }}>
+            - Maintaining existing code base
+            <br />
+            - Collaborating with cross-functional teams
+            <br />
+            - Developing plugins and parsers
+            <br />
+            - Setup SEO and analytics
+            <br />
+            - Helping on the server side of the apps
+            <br />
+            - Implementing responsive design and
+            <br />
+            - Ensuring cross-browser compatibility
+            <br />
+          </p>
         </BioSection>
         <BioSection>
-          <BioYear>2019</BioYear>
-          Graduated from KTITS Web and Multimedia applications, Kazan
-        </BioSection>
-        <BioSection>
-          <BioYear>2021</BioYear>
-          Freelance Frontend developer at Madely
-        </BioSection>
-        <BioSection>
-          <BioYear>2022</BioYear>
-          Freelance Fullstack developer at Cruzo
+          <BioYear>Cruzo</BioYear>
+          <p style={{ textIndent: 0 }}>
+            - Developing and maintaining beautiful user interface
+            <br />
+            - Developing complex animations
+            <br />
+            - Developing and maintaining backend side
+            <br />
+            - Introduction of third-party blockchain solutions
+            <br />
+            - Working with smart-contracts and wallets
+            <br />- Responsibility for site maintenance, expansion and stability
+          </p>
         </BioSection>
       </Section>
 
@@ -167,7 +185,7 @@ const Home = () => (
 
         <Box align="center" my={4}>
           <Button colorScheme="teal">
-            <a href="https://disk.yandex.com/i/kEPC8ZoAS_6O8Q">
+            <a href="https://disk.yandex.com/i/7uQMjtm2dYDRlw">
               Download Resume
             </a>
           </Button>
