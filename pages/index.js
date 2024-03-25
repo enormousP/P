@@ -93,6 +93,7 @@ const Home = () => (
             - Development on server and client sides
               <br />
             - Development of tools for data collection and processing
+              <br />
           </p>
         </BioSection>
         <BioSection>
@@ -109,6 +110,7 @@ const Home = () => (
             - Project maintenance, expansion and scaling
               <br />
             - SEO and Analytics
+              <br />
           </p>
         </BioSection>
         <BioSection>
