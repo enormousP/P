@@ -74,14 +74,12 @@ const Home = () => (
         </Heading>
         <Paragraph>
           Hello! 👋 I am Makarov Timur. Fullstack Web Developer. I enjoy taking
-          problems and turning them into beautifully tied elegant backend
-          structures with modern user interfaces. I am able to work well both in
-          a team environment as well as using own initiative. Always strive to
-          write elegant and efficient code whether it be React, Vue, Svelte,
-          NodeJs, Go or Python.
+          problems and turning them into robustly tied elegant backend
+          structures with modern user interfaces. Always strive to
+          write good code whether it be TypeScript, Python, Go or PHP.
           <br></br>
-          I'm a highly motivated to learn more and more. So, when I'm not
-          working, you'll find me playing around with new technologies.
+          I'm a highly motivated to learn more and live a better life. So, when I'm not
+          working, you'll find me studing new technologies, reading books or being present, watching my thoughts come and go.
         </Paragraph>
       </Section>
 
@@ -90,37 +88,41 @@ const Home = () => (
           Experience
         </Heading>
         <BioSection>
-          <BioYear>Madely</BioYear>
-          <p style={{ textIndent: 0 }}>
-            - Maintaining existing code base
-            <br />
-            - Collaborating with cross-functional teams
-            <br />
-            - Developing plugins and parsers
-            <br />
-            - Setup SEO and analytics
-            <br />
-            - Helping on the server side of the apps
-            <br />
-            - Implementing responsive design and
-            <br />
-            - Ensuring cross-browser compatibility
-            <br />
+          <BioYear>Artificy</BioYear>
+          <p style={{ textIndent: 0 }}>              
+            - Development on server and client sides
+              <br />
+            - Development of tools for data collection and processing
           </p>
         </BioSection>
         <BioSection>
           <BioYear>Cruzo</BioYear>
+          <p style={{ textIndent: 0 }}>              
+            - Create user interface and complex animations
+              <br />
+            - Backend Development
+              <br />
+            - Web3 Development
+              <br />
+            - Introducing external blockchain solutions
+              <br />
+            - Project maintenance, expansion and scaling
+              <br />
+            - SEO and Analytics
+          </p>
+        </BioSection>
+        <BioSection>
+          <BioYear>Takeoff-Staff</BioYear>
           <p style={{ textIndent: 0 }}>
-            - Developing and maintaining beautiful user interface
-            <br />
-            - Developing complex animations
-            <br />
-            - Developing and maintaining backend side
-            <br />
-            - Introduction of third-party blockchain solutions
-            <br />
-            - Working with smart-contracts and wallets
-            <br />- Responsibility for site maintenance, expansion and stability
+            - Maintenance and improvement of existing code base
+              <br />
+            - Development of plugins and parsers
+              <br />
+            - SEO and Analytics
+              <br />
+            - Design and creation of user interfaces
+              <br />
+            - Backend Development
           </p>
         </BioSection>
       </Section>
@@ -130,9 +132,7 @@ const Home = () => (
           I ♥
         </Heading>
         <p>
-          <text style={{ color: 'pink' }}>Coding</text>, Athletics, System
-          Administration, <text style={{ color: 'pink' }}>AI</text>, Technology
-          and Reading
+          <text style={{ color: 'pink' }}>Software deveploment</text>, Athletics, Finance, <text style={{ color: 'pink' }}>Technology</text> and Books
         </p>
       </Section>
 
@@ -185,7 +185,7 @@ const Home = () => (
 
         <Box align="center" my={4}>
           <Button colorScheme="teal">
-            <a href="https://disk.yandex.com/i/7uQMjtm2dYDRlw">
+            <a href="https://drive.google.com/file/d/1rYepx8HCmKBiDRW66I6_gaeC_rFZOs9A/view?usp=sharing">
               Download Resume
             </a>
           </Button>
