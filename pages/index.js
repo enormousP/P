@@ -114,7 +114,7 @@ const Home = () => (
           </p>
         </BioSection>
         <BioSection>
-          <BioYear>Takeoff-Staff</BioYear>
+          <BioYear>Madely</BioYear>
           <p style={{ textIndent: 0 }}>
             - Maintenance and improvement of existing code base
               <br />
