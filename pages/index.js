@@ -31,7 +31,7 @@ const Home = () => (
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
         css={{ backdropFilter: 'blur(10px)' }}
       >
-        Hello, I&apos;m currently looking for a job
+        Hello! ¡Hola! Привет! გამარჯობა!
       </Box>
 
       <Box display={{ md: 'flex' }}>
@@ -39,7 +39,7 @@ const Home = () => (
           <Heading as="h2" variant="page-title">
             Makarov Timur
           </Heading>
-          <p>Fullstack Web Developer</p>
+          <p>Fullstack Developer</p>
         </Box>
         <Box
           flexShrink={0}
@@ -73,7 +73,7 @@ const Home = () => (
           About
         </Heading>
         <Paragraph>
-          Hello! 👋 I am Makarov Timur. Fullstack Web Developer. I enjoy taking
+          Hello! 👋 I am Makarov Timur. Fullstack Developer. I enjoy taking
           problems and turning them into robustly tied elegant backend
           structures with modern user interfaces. Always strive to
           write good code whether it be in TypeScript, Python, Go or PHP.
@@ -90,41 +90,47 @@ const Home = () => (
         <BioSection>
           <BioYear>Artificy</BioYear>
           <p style={{ textIndent: 0 }}>              
-            - Development on server and client sides
+              - Backend development in Go/PHP
+                <br />
+              - Frontend development
+                <br />
+              - Development of tools for data collection and processing
+                <br />
+              - Development of image analysis and transformation services in Python
               <br />
-            - Development of tools for data collection and processing
               <br />
           </p>
         </BioSection>
         <BioSection>
           <BioYear>Cruzo</BioYear>
           <p style={{ textIndent: 0 }}>              
-            - Create user interface and complex animations
+              - Backend Development
+                <br />
+              - Web3 Development
+                <br />
+              - Introducing external blockchain solutions
+                <br />
+              - Create user interface and complex animations
+                <br />
+              - Project maintenance, expansion and scaling
+                <br />
+              - SEO and Analytics
               <br />
-            - Backend Development
-              <br />
-            - Web3 Development
-              <br />
-            - Introducing external blockchain solutions
-              <br />
-            - Project maintenance, expansion and scaling
-              <br />
-            - SEO and Analytics
               <br />
           </p>
         </BioSection>
         <BioSection>
           <BioYear>Madely</BioYear>
           <p style={{ textIndent: 0 }}>
-            - Maintenance and improvement of existing code base
-              <br />
-            - Development of plugins and parsers
-              <br />
-            - SEO and Analytics
-              <br />
-            - Design and creation of user interfaces
-              <br />
-            - Backend Development
+              - Backend Development
+                <br />
+              - Development of plugins and parsers
+                <br />
+              - Maintenance and improvement of existing code base
+                <br />
+              - Design and creation of user interfaces
+                <br />
+              - SEO and Analytics
           </p>
         </BioSection>
       </Section>
