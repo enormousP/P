@@ -89,8 +89,7 @@ const Home = () => (
         </Heading>
         <BioSection>
           <BioYear>Artificy</BioYear>
-          <span style={{ display: "block" }}>May 2023 - Now</span>
-            <br />
+          <span style={{ display: "block", "margin-bottom": "5px" }}>May 2023 - Now</span>
           <p style={{ textIndent: 0 }}>              
               - Backend development in Go/PHP
                 <br />
@@ -105,8 +104,7 @@ const Home = () => (
         </BioSection>
         <BioSection>
           <BioYear>Cruzo</BioYear>
-          <span style={{ display: "block" }}>July 2022 - May 2023</span>
-                <br />
+          <span style={{ display: "block", "margin-bottom": "5px" }}>July 2022 - May 2023</span>
           <p style={{ textIndent: 0 }}>              
               - Backend Development
                 <br />
@@ -125,8 +123,7 @@ const Home = () => (
         </BioSection>
         <BioSection>
           <BioYear>Madely</BioYear>
-          <span style={{ display: "block" }}>May 2021 - July 2022</span>
-                <br />
+          <span style={{ display: "block", "margin-bottom": "5px" }}>May 2021 - July 2022</span>
           <p style={{ textIndent: 0 }}>
               - Backend Development
                 <br />
