@@ -97,7 +97,7 @@ const Home = () => (
                 <br />
               - Development of tools for data collection and processing
                 <br />
-              - Development of image analysis and transformation services in Python
+              - Development of services to work with, analyse and transform images in Python
               <br />
               <br />
           </p>
