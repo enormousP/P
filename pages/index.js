@@ -79,7 +79,7 @@ const Home = () => (
           write good code whether it be in TypeScript, Python, Go or PHP.
           <br></br>
           I'm a highly motivated to learn more and live a better life. So, when I'm not
-          working, you'll find me studing new technologies, reading books or being present, watching my thoughts come and go.
+          working, you'll find me studying new technologies, reading books or being present, watching my thoughts come and go.
         </Paragraph>
       </Section>
 
