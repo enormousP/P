@@ -97,7 +97,7 @@ const Home = () => (
                 <br />
               - Development of tools for data collection and processing
                 <br />
-              - Development of services to work with, analyse and transform images in Python
+              - Development of AI services in Python
               <br />
               <br />
           </p>
@@ -106,9 +106,9 @@ const Home = () => (
           <BioYear>Cruzo</BioYear>
           <span style={{ display: "block", "margin-bottom": "5px" }}>July 2022 - May 2023</span>
           <p style={{ textIndent: 0 }}>              
-              - Backend Development
+              - Backend development
                 <br />
-              - Web3 Development
+              - Web3 ingeration
                 <br />
               - Introducing external blockchain solutions
                 <br />
@@ -125,7 +125,7 @@ const Home = () => (
           <BioYear>Madely</BioYear>
           <span style={{ display: "block", "margin-bottom": "5px" }}>May 2021 - July 2022</span>
           <p style={{ textIndent: 0 }}>
-              - Backend Development
+              - Backend development
                 <br />
               - Development of plugins and parsers
                 <br />
