@@ -196,7 +196,7 @@ const Home = () => (
 
         <Box align="center" my={4}>
           <Button colorScheme="teal">
-            <a href="https://drive.google.com/file/d/1rYepx8HCmKBiDRW66I6_gaeC_rFZOs9A/view?usp=sharing">
+            <a href="https://drive.google.com/file/d/1XDE0Zjyt3km7dcolK444ncWmlpQj-Yyx/view?usp=sharing">
               Download Resume
             </a>
           </Button>
