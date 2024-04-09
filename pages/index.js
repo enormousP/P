@@ -96,7 +96,7 @@ const Home = () => (
                 <br />
               - Development of tools for data collection and processing
                 <br />
-              - Development of AI services in Python
+              - Development of services based on ML in Python
               <br />
               <br />
           </p>
@@ -115,7 +115,7 @@ const Home = () => (
                 <br />
               - Project maintenance, expansion and scaling
                 <br />
-              - SEO and Analytics
+              - Set up and integrate SEO and Analytics
               <br />
               <br />
           </p>
@@ -126,13 +126,11 @@ const Home = () => (
           <p style={{ textIndent: 0 }}>
               - Backend development
                 <br />
-              - Development of plugins and parsers
-                <br />
-              - Maintenance and improvement of existing code base
+              - Development of tools to collect and work with data
                 <br />
               - Design and creation of user interfaces
                 <br />
-              - SEO and Analytics
+              - Set up and integrate SEO and Analytics
           </p>
         </BioSection>
       </Section>
