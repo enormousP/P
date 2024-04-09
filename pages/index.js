@@ -73,10 +73,9 @@ const Home = () => (
           About
         </Heading>
         <Paragraph>
-          I have more than 3 years of experience as a software engineer. 
-          I enjoy taking problems and turning them into robustly tied elegant backend structures with modern user interfaces. 
-          I always strive to write  good code whether it be in TypeScript, Python or Go.  
-          I’m technology agnostic: I use and quickly learn those tools that are needed, without any attachment.
+          I have 3+ years of experience as an engineer, teacher and fan of software. 
+          I take problems and turn them into robustly tied elegant backend structures with modern user interfaces.  
+          Technology agnostic: I use and quickly learn those tools that are needed
           <br></br>
           I'm highly motivated to learn more and live a better life. So, when I'm not
           working, you'll find me studying new technologies, reading books or being present, watching my thoughts come and go.
