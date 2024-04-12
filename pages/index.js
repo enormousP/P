@@ -74,7 +74,7 @@ const Home = () => (
         </Heading>
         <Paragraph>
           I have 3+ years of experience as an engineer, teacher and fan of software.
-          I take problems and turn them into robustly tied elegant backend structures with modern user interfaces.  
+          I turn ideas and tasks into elegant backend structures with modern user interfaces.  
           Technology agnostic: I use and quickly learn those tools that are needed
           <br></br>
           I'm highly motivated to learn more and live a better life. So, when I'm not
